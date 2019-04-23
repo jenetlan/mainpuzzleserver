@@ -15,6 +15,7 @@ In order to contribute to this project, you will need to set up your environment
 Refer to THIS WIKI LINK
 
 ## Build the solution
+Follow the full instructions here to set up your environment: https://github.com/PuzzleServer/mainpuzzleserver/wiki/Local-Development-Environment-Setup
 
 ### Choice 1: Visual Studio 2017
 - Someone else who actually uses VS 2017 should fill this in...
